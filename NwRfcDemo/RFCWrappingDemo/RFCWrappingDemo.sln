@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RFCWrappingDemo", "RFCWrappingDemo.csproj", "{24F3CCCB-3753-45BC-81A4-B478E5532443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F3CCCB-3753-45BC-81A4-B478E5532443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F3CCCB-3753-45BC-81A4-B478E5532443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F3CCCB-3753-45BC-81A4-B478E5532443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F3CCCB-3753-45BC-81A4-B478E5532443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {737BBC2B-DBD0-4B4E-912C-2EC923C37463}
+	EndGlobalSection
+EndGlobal

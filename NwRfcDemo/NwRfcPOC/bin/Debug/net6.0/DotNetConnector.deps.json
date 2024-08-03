@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotNetConnector/1.0.0": {
+        "dependencies": {
+          "sapnwrfc": "0.0.0.0"
+        },
+        "runtime": {
+          "DotNetConnector.dll": {}
+        }
+      },
+      "sapnwrfc/0.0.0.0": {
+        "runtime": {
+          "sapnwrfc.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "7530.200.28.6383"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetConnector/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "sapnwrfc/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

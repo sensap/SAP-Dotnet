@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "em08aQr7EArfl/9m8AWTfKu49fKPfgJClFm+QTZAIZM=",
+  "Source": "dotnetWebapiSAP",
+  "BasePath": "_content/dotnetWebapiSAP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

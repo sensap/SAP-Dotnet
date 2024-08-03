@@ -1,0 +1,10 @@
+SystemName,MSHost,SystemNumber,Client,Language,PoolSize,SncLibraryPath,SNCMode,PeakConnection,SNCPartnerName,SYSID,Group,SNC_QOP,Trace
+odrdev,odrdev,0,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:oddadm@REDMOND.CORP.MICROSOFT.COM,ODD,Users,8,2
+sapdev99,sapdev99,20,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:ms1adm@REDMOND.CORP.MICROSOFT.COM,MS1,Users,8,2
+sapdev2,sapdev2,20,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p:REDMOND/MS1ADM,MS2,Users,8,2
+mpdev00,mpdev00,0,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:mpdadm@REDMOND.CORP.MICROSOFT.COM,MPD,Users,8,2
+recdev,recdev,0,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:redadm@REDMOND.CORP.MICROSOFT.COM,RED,Users,8,2
+mdgdev,mdgdev,0,122,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:dgdadm@REDMOND.CORP.MICROSOFT.COM,DGD,Users,8,2
+gtsdev,gtsdev,0,200,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:gtdadm@REDMOND.CORP.MICROSOFT.COM,GTD,Users,8,2
+scmdev,scmdev,0,300,EN,10,C:/Program Files/SAP/SSO/gx64krb5.dll,1,200,p/krb5:scdadm@REDMOND.CORP.MICROSOFT.COM,SCD,Users,8,2
+sapdev15,sapdev15,0,122,EN,10,C:\Program Files\SAP\SSO\gx64krb5.dll,1,200,p/krb5:d15adm@REDMOND.CORP.MICROSOFT.COM,D15,Users,8,2
